@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wqr/cpplearn/atm/atm.h
+iostream
+-
+
+/home/wqr/cpplearn/atm/customer.h
+iostream
+-
+
+/home/wqr/cpplearn/atm/init.cpp
+atm.h
+/home/wqr/cpplearn/atm/atm.h
+customer.h
+/home/wqr/cpplearn/atm/customer.h
+queue.h
+/home/wqr/cpplearn/atm/queue.h
+iostream
+-
+
+/home/wqr/cpplearn/atm/queue.h
+iostream
+-
+
