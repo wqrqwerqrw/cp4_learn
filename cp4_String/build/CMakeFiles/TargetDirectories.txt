@@ -1,0 +1,3 @@
+/home/wqr/cpplearn/cp4_String/build/CMakeFiles/rebuild_cache.dir
+/home/wqr/cpplearn/cp4_String/build/CMakeFiles/a.dir
+/home/wqr/cpplearn/cp4_String/build/CMakeFiles/edit_cache.dir

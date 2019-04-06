@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wqr/cpplearn/CMakeTest_1/main.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+string
+-
+vector
+-
+algorithm
+-
+time.h
+/home/wqr/cpplearn/CMakeTest_1/time.h
+
+/home/wqr/cpplearn/CMakeTest_1/time.cpp
+time.h
+/home/wqr/cpplearn/CMakeTest_1/time.h
+
+/home/wqr/cpplearn/CMakeTest_1/time.h
+iostream
+-
+

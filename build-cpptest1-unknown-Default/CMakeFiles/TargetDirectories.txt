@@ -1,0 +1,3 @@
+/home/wqr/cpplearn/build-cpptest1-unknown-Default/CMakeFiles/rebuild_cache.dir
+/home/wqr/cpplearn/build-cpptest1-unknown-Default/CMakeFiles/cpptest1.dir
+/home/wqr/cpplearn/build-cpptest1-unknown-Default/CMakeFiles/edit_cache.dir

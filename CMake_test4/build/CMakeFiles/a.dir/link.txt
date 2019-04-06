@@ -1,0 +1,1 @@
+/bin/c++  -g   CMakeFiles/a.dir/main.cpp.o CMakeFiles/a.dir/time.cpp.o  -o a 

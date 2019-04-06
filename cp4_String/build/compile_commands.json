@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wqr/cpplearn/cp4_String/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/a.dir/String1.cpp.o -c /home/wqr/cpplearn/cp4_String/String1.cpp",
+  "file": "/home/wqr/cpplearn/cp4_String/String1.cpp"
+},
+{
+  "directory": "/home/wqr/cpplearn/cp4_String/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/cp4_String/main.cpp",
+  "file": "/home/wqr/cpplearn/cp4_String/main.cpp"
+}
+]

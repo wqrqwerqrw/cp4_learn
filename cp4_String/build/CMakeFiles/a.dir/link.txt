@@ -1,0 +1,1 @@
+/bin/c++  -g   CMakeFiles/a.dir/String1.cpp.o CMakeFiles/a.dir/main.cpp.o  -o a 

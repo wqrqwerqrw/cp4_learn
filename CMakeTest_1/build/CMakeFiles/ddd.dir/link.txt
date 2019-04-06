@@ -1,0 +1,1 @@
+/bin/c++  -g  -rdynamic CMakeFiles/ddd.dir/main.cpp.o CMakeFiles/ddd.dir/time.cpp.o  -o ddd 

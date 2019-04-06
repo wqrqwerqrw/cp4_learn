@@ -1,0 +1,3 @@
+/home/wqr/cpplearn/CMakeTest_3/build/CMakeFiles/rebuild_cache.dir
+/home/wqr/cpplearn/CMakeTest_3/build/CMakeFiles/timett.dir
+/home/wqr/cpplearn/CMakeTest_3/build/CMakeFiles/edit_cache.dir

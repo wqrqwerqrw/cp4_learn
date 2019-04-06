@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wqr/cpplearn/CMakeTest_3/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/timett.dir/main.cpp.o -c /home/wqr/cpplearn/CMakeTest_3/main.cpp",
+  "file": "/home/wqr/cpplearn/CMakeTest_3/main.cpp"
+},
+{
+  "directory": "/home/wqr/cpplearn/CMakeTest_3/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/timett.dir/time.cpp.o -c /home/wqr/cpplearn/CMakeTest_3/time.cpp",
+  "file": "/home/wqr/cpplearn/CMakeTest_3/time.cpp"
+}
+]

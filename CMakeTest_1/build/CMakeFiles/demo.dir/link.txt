@@ -1,0 +1,1 @@
+/bin/c++    -rdynamic CMakeFiles/demo.dir/main.cpp.o CMakeFiles/demo.dir/time.cpp.o  -o demo 
