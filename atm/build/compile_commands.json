@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/wqr/cpplearn/atm/build",
-  "command": "/bin/c++    -g   -o CMakeFiles/a.dir/init.cpp.o -c /home/wqr/cpplearn/atm/init.cpp",
-  "file": "/home/wqr/cpplearn/atm/init.cpp"
+  "command": "/bin/c++    -g   -o CMakeFiles/a.dir/bank.cpp.o -c /home/wqr/cpplearn/atm/bank.cpp",
+  "file": "/home/wqr/cpplearn/atm/bank.cpp"
 }
 ]

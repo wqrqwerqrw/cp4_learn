@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/wqr/cpplearn/atm/init.cpp" "/home/wqr/cpplearn/atm/build/CMakeFiles/a.dir/init.cpp.o"
+  "/home/wqr/cpplearn/atm/bank.cpp" "/home/wqr/cpplearn/atm/build/CMakeFiles/a.dir/bank.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

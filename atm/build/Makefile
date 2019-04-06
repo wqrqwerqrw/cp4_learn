@@ -123,32 +123,32 @@ a/fast:
 	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/build
 .PHONY : a/fast
 
-init.o: init.cpp.o
+bank.o: bank.cpp.o
 
-.PHONY : init.o
+.PHONY : bank.o
 
 # target to build an object file
-init.cpp.o:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/init.cpp.o
-.PHONY : init.cpp.o
+bank.cpp.o:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/bank.cpp.o
+.PHONY : bank.cpp.o
 
-init.i: init.cpp.i
+bank.i: bank.cpp.i
 
-.PHONY : init.i
+.PHONY : bank.i
 
 # target to preprocess a source file
-init.cpp.i:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/init.cpp.i
-.PHONY : init.cpp.i
+bank.cpp.i:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/bank.cpp.i
+.PHONY : bank.cpp.i
 
-init.s: init.cpp.s
+bank.s: bank.cpp.s
 
-.PHONY : init.s
+.PHONY : bank.s
 
 # target to generate assembly for a file
-init.cpp.s:
-	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/init.cpp.s
-.PHONY : init.cpp.s
+bank.cpp.s:
+	$(MAKE) -f CMakeFiles/a.dir/build.make CMakeFiles/a.dir/bank.cpp.s
+.PHONY : bank.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... a"
 	@echo "... edit_cache"
-	@echo "... init.o"
-	@echo "... init.i"
-	@echo "... init.s"
+	@echo "... bank.o"
+	@echo "... bank.i"
+	@echo "... bank.s"
 .PHONY : help
 
 

@@ -1,1 +1,1 @@
-/bin/c++  -g   CMakeFiles/a.dir/init.cpp.o  -o a 
+/bin/c++  -g   CMakeFiles/a.dir/bank.cpp.o  -o a 

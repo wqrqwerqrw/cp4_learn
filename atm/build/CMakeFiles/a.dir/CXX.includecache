@@ -6,25 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/wqr/cpplearn/atm/atm.h
-iostream
--
-
-/home/wqr/cpplearn/atm/customer.h
-iostream
--
-
-/home/wqr/cpplearn/atm/init.cpp
-atm.h
-/home/wqr/cpplearn/atm/atm.h
+/home/wqr/cpplearn/atm/bank.cpp
 customer.h
 /home/wqr/cpplearn/atm/customer.h
 queue.h
 /home/wqr/cpplearn/atm/queue.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+
+/home/wqr/cpplearn/atm/customer.h
 iostream
 -
 
 /home/wqr/cpplearn/atm/queue.h
 iostream
 -
+customer.h
+/home/wqr/cpplearn/atm/customer.h
 
