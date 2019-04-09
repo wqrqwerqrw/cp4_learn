@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/wqr/cpplearn/cp4_String/String1.cpp
-String1.h
-/home/wqr/cpplearn/cp4_String/String1.h
-cstring
--
-
 /home/wqr/cpplearn/cp4_String/String1.h
 iostream
 -
+
+/home/wqr/cpplearn/cp4_String/main.cpp
+iostream
+-
+String1.h
+/home/wqr/cpplearn/cp4_String/String1.h
 
