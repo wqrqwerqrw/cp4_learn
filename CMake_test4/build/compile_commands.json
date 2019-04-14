@@ -1,12 +1,12 @@
 [
 {
   "directory": "/home/wqr/cpplearn/CMake_test4/build",
-  "command": "/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/CMake_test4/main.cpp",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/CMake_test4/main.cpp",
   "file": "/home/wqr/cpplearn/CMake_test4/main.cpp"
 },
 {
   "directory": "/home/wqr/cpplearn/CMake_test4/build",
-  "command": "/bin/c++    -g   -o CMakeFiles/a.dir/time.cpp.o -c /home/wqr/cpplearn/CMake_test4/time.cpp",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/time.cpp.o -c /home/wqr/cpplearn/CMake_test4/time.cpp",
   "file": "/home/wqr/cpplearn/CMake_test4/time.cpp"
 }
 ]
