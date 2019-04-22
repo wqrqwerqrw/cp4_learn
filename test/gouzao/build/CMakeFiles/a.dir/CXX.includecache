@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wqr/cpplearn/test/gouzao/main.cpp
+iostream
+-
+test.h
+/home/wqr/cpplearn/test/gouzao/test.h
+
+/home/wqr/cpplearn/test/gouzao/test.h
+iostream
+-
+

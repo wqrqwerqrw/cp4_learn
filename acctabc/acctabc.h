@@ -25,15 +25,15 @@ class AcctABC{
     void Restore(Formatting &f) const;
 
   public:
-    AcctABC(const string & s = "Nullbody", long an = -1, double bal = 0.0);
+    AcctABC(const string & s, long an, double bal);
     void Deposit(double amt);
     virtual void Withdraw(double amt) = 0;
     double Baleance() const {return balance;};
-    virtual void ViewAcct() const = 0;
+    virtual void ViewAcct() const = 0;   //定义抽象函数
     virtual ~AcctABC(){}
 };
 
-AcctABC::AcctABC(const string & s, long an, double bal){
+AcctABC::AcctABC(const string & s = "Nullbody", long an = -1, double bal = 0.0){
     fullName = s;
     acctNum = an;
     balance = bal;

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wqr/cpplearn/test/gouzao/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/test/gouzao/main.cpp",
+  "file": "/home/wqr/cpplearn/test/gouzao/main.cpp"
+}
+]

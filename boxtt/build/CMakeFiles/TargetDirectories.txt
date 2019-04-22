@@ -1,0 +1,3 @@
+/home/wqr/cpplearn/boxtt/build/CMakeFiles/rebuild_cache.dir
+/home/wqr/cpplearn/boxtt/build/CMakeFiles/a.dir
+/home/wqr/cpplearn/boxtt/build/CMakeFiles/edit_cache.dir

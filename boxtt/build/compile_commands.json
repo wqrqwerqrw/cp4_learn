@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wqr/cpplearn/boxtt/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/boxtt/main.cpp",
+  "file": "/home/wqr/cpplearn/boxtt/main.cpp"
+}
+]
