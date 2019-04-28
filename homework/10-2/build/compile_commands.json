@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wqr/cpplearn/homework/10-2/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/homework/10-2/main.cpp",
+  "file": "/home/wqr/cpplearn/homework/10-2/main.cpp"
+}
+]
