@@ -31,7 +31,6 @@ istream &operator>>(istream &os, Complex &in) {
     os >> in.a >> in.b;
     return os;
 };
-
 int main(){
     Complex a;
     Complex tmp;
