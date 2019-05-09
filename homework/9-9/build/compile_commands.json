@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/wqr/cpplearn/homework/9-9/build",
-  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/homework/9-9/main.cpp",
-  "file": "/home/wqr/cpplearn/homework/9-9/main.cpp"
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/a.dir/180511519-9-9.cpp.o -c /home/wqr/cpplearn/homework/9-9/180511519-9-9.cpp",
+  "file": "/home/wqr/cpplearn/homework/9-9/180511519-9-9.cpp"
 }
 ]

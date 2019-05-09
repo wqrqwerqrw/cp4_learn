@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"
+}

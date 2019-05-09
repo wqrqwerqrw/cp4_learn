@@ -57,27 +57,27 @@ include CMakeFiles/a.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/a.dir/flags.make
 
-CMakeFiles/a.dir/main.cpp.o: CMakeFiles/a.dir/flags.make
-CMakeFiles/a.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wqr/cpplearn/homework/9-9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.dir/main.cpp.o -c /home/wqr/cpplearn/homework/9-9/main.cpp
+CMakeFiles/a.dir/180511519-9-9.cpp.o: CMakeFiles/a.dir/flags.make
+CMakeFiles/a.dir/180511519-9-9.cpp.o: ../180511519-9-9.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/wqr/cpplearn/homework/9-9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/a.dir/180511519-9-9.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.dir/180511519-9-9.cpp.o -c /home/wqr/cpplearn/homework/9-9/180511519-9-9.cpp
 
-CMakeFiles/a.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wqr/cpplearn/homework/9-9/main.cpp > CMakeFiles/a.dir/main.cpp.i
+CMakeFiles/a.dir/180511519-9-9.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.dir/180511519-9-9.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/wqr/cpplearn/homework/9-9/180511519-9-9.cpp > CMakeFiles/a.dir/180511519-9-9.cpp.i
 
-CMakeFiles/a.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wqr/cpplearn/homework/9-9/main.cpp -o CMakeFiles/a.dir/main.cpp.s
+CMakeFiles/a.dir/180511519-9-9.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.dir/180511519-9-9.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/wqr/cpplearn/homework/9-9/180511519-9-9.cpp -o CMakeFiles/a.dir/180511519-9-9.cpp.s
 
 # Object files for target a
 a_OBJECTS = \
-"CMakeFiles/a.dir/main.cpp.o"
+"CMakeFiles/a.dir/180511519-9-9.cpp.o"
 
 # External object files for target a
 a_EXTERNAL_OBJECTS =
 
-a : CMakeFiles/a.dir/main.cpp.o
+a : CMakeFiles/a.dir/180511519-9-9.cpp.o
 a : CMakeFiles/a.dir/build.make
 a : CMakeFiles/a.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/wqr/cpplearn/homework/9-9/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable a"
